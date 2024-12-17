@@ -88,4 +88,10 @@ public static partial class Doc
     public const string Proxy = "Proxy";
     public const string VisualQueue = "VisualQueue";
     public const string Rig = "Rig";
+    public const string Variables = "Variables";
+    public const string Int = "Int";
+    public const string Float = "Float";
+    public const string Bool = "Bool";
+    public const string String = "String";
+    public const string Generic = "Generic";
 }
